@@ -7,7 +7,6 @@ https://magic-react-express.herokuapp.com/login
 #### Start server
 
 ```txt
-$ git clone https://github.com/magiclabs/example-react-express.git
 $ cd example-react-express
 $ mv .env.example .env
 $ yarn install
@@ -45,6 +44,3 @@ CLIENT_URL=http://localhost:3000
 
 - _Note: the tutorial was built using Magic UI components. If you swap them out for your own custom CSS, you can delete `@magiclabs/ui` and `framer-motion`from your `client/package.json` dependencies._
 
-# Tutorial
-
-https://magic.link/posts/magic-react-express
